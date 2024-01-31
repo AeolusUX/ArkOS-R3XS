@@ -1,2 +1,5 @@
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 show_downloads: true
 theme: jekyll-theme-architect
