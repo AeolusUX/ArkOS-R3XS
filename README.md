@@ -1,4 +1,3 @@
-# Welcome to the ArkOS-R3XS Repo
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS/main/logo.bmp)
 ## Download Links
 ***
