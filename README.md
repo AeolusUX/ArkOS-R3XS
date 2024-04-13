@@ -4,7 +4,8 @@
 ## R33S - [Google Drive](https://drive.google.com/file/d/1ZViI4XFZSXhGFRaI_E-GQmph_C3Ou8qt/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/cw7igcvsp9t37hg/ArkOS_R33S_v2.0_03302024.img.xz/file) | [MEGA](https://mega.nz/file/dwwkXQ4D#kkq2JXD3J0T1KVzhCkDPrWgWjeShPqgrFyDy6t0ivBE) (Updated (04/11/2024)
 ## R35S / R36S - [Google Drive](https://drive.google.com/file/d/10z7j7IZ7WX3y10ZJBW_a2-agcIe1Dx9m/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_1272024-1.img.xz/file) | [MEGA](https://mega.nz/file/5tojVAba#AgLHqIo5izAOt0u40SVkeUFUoGCmENNorjRu4svmTjo) (Updated (04/11/2024)
 
-### **HOTFIX FOR READ FROM SD 1 AND SD2 configuration files not found in /etc/emulationstation/ error.
+> [!IMPORTANT]  
+HOTFIX FOR READ FROM SD 1 AND SD2 configuration files not found in /etc/emulationstation/ error.
 
 
 1. Take the attached compressed file [arkosbackup.tar.gz](https://github.com/AeolusUX/ArkOS-R3XS-Updater/blob/main/04112024/arkosbackup.tar.gz?fbclid=IwAR3pSzg2RmQQ4OwBI4jF2svqmfCDEdHR-Cw3kZCv_y0pYdgdBy0ODoODAh8_aem_ATAOqdJa6AkmGCrixSHig_1EWn6Bx0fHssoJ107xIt_rGyw23iC3ykp779FH54cNAzIYKYqZ64VKqSlGp4BPtp8Y) and put it in your roms/backup folder. Do not uncompress the contents! Just place the file as is in your roms/backup folder. If you don't have a backup folder in the roms folder, just create it.
