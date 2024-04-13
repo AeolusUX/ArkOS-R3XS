@@ -7,10 +7,10 @@
 ### **HOTFIX FOR READ FROM SD 1 AND SD2 configuration files not found in /etc/emulationstation/ error.
 
 
-1.Take the attached compressed file [arkosbackup.tar.gz](https://github.com/AeolusUX/ArkOS-R3XS-Updater/blob/main/04112024/arkosbackup.tar.gz?fbclid=IwAR3pSzg2RmQQ4OwBI4jF2svqmfCDEdHR-Cw3kZCv_y0pYdgdBy0ODoODAh8_aem_ATAOqdJa6AkmGCrixSHig_1EWn6Bx0fHssoJ107xIt_rGyw23iC3ykp779FH54cNAzIYKYqZ64VKqSlGp4BPtp8Y) and put it in your roms/backup folder. Do not uncompress the contents! Just place the file as is in your roms/backup folder. If you don't have a backup folder in the roms folder, just create it.
-2.Then go into the Emulationstation Menu, scroll to Options, hit A, then go to Advanced, hit A, then scroll all the way down to Restore Settings, hit A.
-3.Once completed, reboot the device.
-4.Try using the script for reading both sd cards again.
+1. Take the attached compressed file [arkosbackup.tar.gz](https://github.com/AeolusUX/ArkOS-R3XS-Updater/blob/main/04112024/arkosbackup.tar.gz?fbclid=IwAR3pSzg2RmQQ4OwBI4jF2svqmfCDEdHR-Cw3kZCv_y0pYdgdBy0ODoODAh8_aem_ATAOqdJa6AkmGCrixSHig_1EWn6Bx0fHssoJ107xIt_rGyw23iC3ykp779FH54cNAzIYKYqZ64VKqSlGp4BPtp8Y) and put it in your roms/backup folder. Do not uncompress the contents! Just place the file as is in your roms/backup folder. If you don't have a backup folder in the roms folder, just create it.
+2. Then go into the Emulationstation Menu, scroll to Options, hit A, then go to Advanced, hit A, then scroll all the way down to Restore Settings, hit A.
+3. Once completed, reboot the device.
+4. Try using the script for reading both sd cards again.
 
 ### Community Maintained Image.
 If you're having problems with this image find us at the [RetroHandhelds Discord](https://discord.gg/RetroHandhelds)
