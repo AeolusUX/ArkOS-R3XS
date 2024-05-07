@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Which Screen Do I Have?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1f1f1f;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        #container {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            width: 400px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin-top: 0;
+            color: #ffffff;
+        }
+
+        #fileInput {
+            background-color: #333;
+            color: #ffffff;
+            border: 1px solid #666;
+            padding: 5px;
+            border-radius: 3px;
+            margin-top: 10px;
+        }
+
+        #identifyButton {
+            background-color: #4caf50;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 3px;
+            transition: background-color 0.3s;
+        }
+
+        #identifyButton:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+
+        #footer {
+            background-color: #333;
+            padding: 10px 0;
+            text-align: center;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+        }
+
+        #link {
+            text-align: center;
+        }
+
+        #link a {
+            color: #ff4d4d; /* Red color for the link */
+            text-decoration: none;
+        }
+
+        #link a:hover {
+            text-decoration: underline;
+        }
+
+        #instructions {
+            font-size: 14px;
+            margin-top: 10px;
+            text-align: left;
+        }
+
+        #instructions ol {
+            text-align: left;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <img src="Icon.png" alt="Screen Image" style="width: 300px; height: auto; margin-bottom: 20px;">
+        <h1>Which Screen Do I Have?</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <label for="fileInput">Upload DTB File:</label><br>
+            <input type="file" id="fileInput" name="fileInput" accept=".dtb"><br><br>
+            <button id="identifyButton" type="submit">Identify My Screen</button>
+        </form>
+        <div id="instructions">
+            <p>Instructions:</p>
+            <ol>
+                <li>Look for the DTB files on your SD card's boot partition.</li>
+                <li>Upload "rk3326-r35s-linux.dtb" to this tool.</li>
+                <li>Click the "Identify My Screen" button.</li>
+            </ol>
+        </div>
+        <div id="result"></div>
+    </div>
+
+    <div id="footer">
+        <div id="link"><a href="#">Additional Information</a></div>
+    </div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            var uploadedFile = document.getElementById('fileInput').files[0];
+
+            if (uploadedFile) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+                    var uploadedData = e.target.result;
+                    var result = identifyScreen(uploadedData);
+                    displayResult(result);
+                };
+
+                reader.readAsText(uploadedFile);
+            }
+        });
+
+        function identifyScreen(uploadedData) {
+            // List of text files to compare against
+            const filesToCompare = ['v0.txt', 'v1.txt', 'v2.txt', 'v3.txt', 'v4.txt']; // Add more files if needed
+
+            // Corresponding messages for each file
+            const fileMessages = {
+                'v0.txt': "This is the original R36S Screen.",
+                'v1.txt': "This is Panel 2.",
+                'v2.txt': "This is Panel 3.",
+                'v3.txt': "This is Panel 4.",
+                'v4.txt': "This is Panel 5."
+            };
+
+            for (var i = 0; i < filesToCompare.length; i++) {
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET', filesToCompare[i], false);
+                xhr.send(null);
+                if (xhr.status === 200 && xhr.responseText === uploadedData) {
+                    return fileMessages[filesToCompare[i]];
+                }
+            }
+            return "The uploaded data does not match the content of any pre-existing file.";
+        }
+
+        function displayResult(result) {
+            document.getElementById('result').innerText = result;
+        }
+    </script>
+</body>
+</html>
