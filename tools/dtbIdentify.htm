@@ -27,9 +27,12 @@
             margin-bottom: 20px;
         }
 
-        h1 {
-            margin-top: 0;
+        h1, h2 {
             color: #ffffff;
+        }
+
+        h2.message {
+            color: #4caf50; /* Green color for the message */
         }
 
         #fileInput {
@@ -116,7 +119,7 @@
     </div>
 
     <div id="footer">
-        <div id="link"><a href="#">Additional Information</a></div>
+        <div id="link"><a href="https://aeolusux.github.io/ArkOS-R3XS/">ArkOS-R3XS</a></div>
     </div>
 
     <script>
@@ -156,14 +159,14 @@
                 xhr.open('GET', filesToCompare[i], false);
                 xhr.send(null);
                 if (xhr.status === 200 && xhr.responseText === uploadedData) {
-                    return fileMessages[filesToCompare[i]];
+                    return '<h2 class="message">' + fileMessages[filesToCompare[i]] + '</h2>';
                 }
             }
             return "The uploaded data does not match the content of any pre-existing file.";
         }
 
         function displayResult(result) {
-            document.getElementById('result').innerText = result;
+            document.getElementById('result').innerHTML = result;
         }
     </script>
 </body>
