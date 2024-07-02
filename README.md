@@ -4,7 +4,7 @@
 ## R33S
 
 
- Download [Google Drive](https://drive.google.com/file/d/1ZViI4XFZSXhGFRaI_E-GQmph_C3Ou8qt/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/cw7igcvsp9t37hg/ArkOS_R33S_v2.0_03302024.img.xz/file) | [MEGA](https://mega.nz/folder/Vlxz0aRD#VdoTDuBSDUoN1JTpcEujPQ) (Updated (04/25/2024)
+ Download [Google Drive](https://drive.google.com/file/d/12yi9W07MVOFKFeVDMwTaRx3jR2xzkhCv/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/cw7igcvsp9t37hg/ArkOS_R33S_v2.0_03302024.img.xz/file) | [MEGA](https://mega.nz/file/9e8VXIYA#xoHzLi1bg0mhC-Vl_jV3uktTkXtm7YUAYcqzkCHSz-8) (Updated (07/02/2024)
 
 ## R35S / R36S
 
