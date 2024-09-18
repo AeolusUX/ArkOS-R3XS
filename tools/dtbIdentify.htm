@@ -96,9 +96,26 @@
             text-align: left;
             margin-left: 20px;
         }
+		#instructions a {
+        color: #ff4d4d; /* Red color for the link */
+        text-decoration: none;
+		}
+
+		#instructions a:hover {
+        text-decoration: underline;
+		}
     </style>
 </head>
 <body>
+	<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('aeolusux', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support Me',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
     <div id="container">
         <img src="Icon.png" alt="Screen Image" style="width: 300px; height: auto; margin-bottom: 20px;">
         <h1>Which Screen Do I Have?</h1>
@@ -114,10 +131,15 @@
                 <li>Upload "rk3326-r35s-linux.dtb" to this tool.</li>
                 <li>Click the "Identify My Screen" button.</li>
             </ol>
+			<p>NOTE:</p>
+            <ol>
+                <li>Couldn't find "rk3326-r35s-linux.dtb"?</li>
+				<li>If you can see "rk3326-evb-lp3-v12-linux.dtb" instead you have a clone.</li>
+				<li>Learn more about the R36S Clones <a href="https://ko-fi.com/post/R36S-Clones-Flood-the-Market-How-to-Protect-Yours-Q5Q813CE8Q">here.</a></li>
+            </ol>
         </div>
         <div id="result"></div>
     </div>
-
     <div id="footer">
         <div id="link"><a href="https://aeolusux.github.io/ArkOS-R3XS/">ArkOS-R3XS</a></div>
     </div>
