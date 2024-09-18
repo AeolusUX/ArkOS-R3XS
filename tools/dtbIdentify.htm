@@ -104,6 +104,10 @@
 		#instructions a:hover {
         text-decoration: underline;
 		}
+		.bold-dtb {
+		font-weight: bold;
+		color: #45a049;
+		}
     </style>
 </head>
 <body>
@@ -124,20 +128,20 @@
             <input type="file" id="fileInput" name="fileInput" accept=".dtb"><br><br>
             <button id="identifyButton" type="submit">Identify My Screen</button>
         </form>
-        <div id="instructions">
-            <p>Instructions:</p>
-            <ol>
-                <li>Look for the DTB files on your SD card's boot partition.</li>
-                <li>Upload "rk3326-r35s-linux.dtb" to this tool.</li>
-                <li>Click the "Identify My Screen" button.</li>
-            </ol>
-			<p>NOTE:</p>
-            <ol>
-                <li>Couldn't find "rk3326-r35s-linux.dtb"?</li>
-				<li>If you can see "rk3326-evb-lp3-v12-linux.dtb" instead you have a clone.</li>
-				<li>Learn more about the R36S Clones <a href="https://ko-fi.com/post/R36S-Clones-Flood-the-Market-How-to-Protect-Yours-Q5Q813CE8Q">here.</a></li>
-            </ol>
-        </div>
+       <div id="instructions">
+    <p>Instructions:</p>
+    <ol>
+        <li>Look for the DTB files on your SD card's boot partition.</li>
+        <li>Upload <span class="bold-dtb">"rk3326-r35s-linux.dtb"</span> to this tool.</li>
+        <li>Click the "Identify My Screen" button.</li>
+    </ol>
+    <p>NOTE:</p>
+    <ol>
+        <li>Couldn't find <span class="bold-dtb">"rk3326-r35s-linux.dtb"</span>?</li>
+        <li>If you can see <span class="bold-dtb">"rk3326-evb-lp3-v12-linux.dtb"</span> instead, you have a clone.</li>
+        <li>Learn more about the R36S Clones <a href="https://ko-fi.com/post/R36S-Clones-Flood-the-Market-How-to-Protect-Yours-Q5Q813CE8Q">here.</a></li>
+    </ol>
+</div>
         <div id="result"></div>
     </div>
     <div id="footer">
