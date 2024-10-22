@@ -2,9 +2,9 @@
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS/main/logo.bmp)
 
 ## R35S / R36S
-Download for Original Screen - [Google Drive](https://drive.google.com/file/d/10z7j7IZ7WX3y10ZJBW_a2-agcIe1Dx9m/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_1272024-1.img.xz/file) | [MEGA](https://mega.nz/file/nq5yWJDT#HI9YR1bYrJS8ucN_RqZn3gx8qNkiznlJJmW92mHG_k0) ArkOS 2.0 08232024-1  (Updated (09/04/2024)
+Download for Original Screen - [Google Drive](https://drive.google.com/file/d/10z7j7IZ7WX3y10ZJBW_a2-agcIe1Dx9m/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_1272024-1.img.xz/file) | [MEGA](https://mega.nz/file/nq5yWJDT#HI9YR1bYrJS8ucN_RqZn3gx8qNkiznlJJmW92mHG_k0) ArkOS 2.0 09292024  (Updated (10/22/2024)
 
-Download for Panel 4 (V5) - [Google Drive](https://drive.google.com/file/d/1eYBt2jtCZvVGX5ScJSmfK-ii0zbUe7Wx/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA]() ArkOS 2.0 08232024-1  (Updated (09/04/2024)
+Download for Panel 4 (V5) - [Google Drive](https://drive.google.com/file/d/1eYBt2jtCZvVGX5ScJSmfK-ii0zbUe7Wx/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA]() ArkOS 2.0 09292024  (Updated (10/22/2024)
 
 ### Community Maintained Image.
 If you're having problems with this image find us at the [RetroHandhelds Discord](https://discord.gg/RetroHandhelds)
