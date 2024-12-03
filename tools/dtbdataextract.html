@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DTB File Data Extractor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2f2f2f;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            width: 100%;
+            max-width: 500px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+        label {
+            font-size: 16px;
+            color: #ddd;
+            margin-bottom: 10px;
+            display: block;
+        }
+        input[type="file"] {
+            background-color: #444;
+            border: 1px solid #555;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        input[type="file"]:hover {
+            background-color: #555;
+        }
+        button {
+            background-color: #5c6bc0;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 20px;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #3f51b5;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>DTB File Data Extractor</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <label for="fileInput">Upload DTB File:</label>
+            <input type="file" id="fileInput" name="fileInput" accept=".dtb"><br>
+            <button type="submit">Extract Data</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            var uploadedFile = document.getElementById('fileInput').files[0];
+
+            if (uploadedFile) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+                    var extractedData = e.target.result;
+                    saveToFile(extractedData);
+                };
+
+                reader.readAsText(uploadedFile);
+            }
+        });
+
+        function saveToFile(data) {
+            var blob = new Blob([data], { type: 'text/plain' });
+            var url = URL.createObjectURL(blob);
+
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = 'extracted_data.txt';
+            a.click();
+
+            URL.revokeObjectURL(url);
+        }
+    </script>
+
+</body>
+</html>
