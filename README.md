@@ -2,9 +2,13 @@
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS/main/logo.bmp)
 
 ## R33S / R35S / R36S
-Download for Original Screen - [Google Drive](https://drive.google.com/file/d/10z7j7IZ7WX3y10ZJBW_a2-agcIe1Dx9m/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_1272024-1.img.xz/file) | [MEGA](https://mega.nz/file/nq5yWJDT#HI9YR1bYrJS8ucN_RqZn3gx8qNkiznlJJmW92mHG_k0) ArkOS 2.0 09292024  (Updated 10/22/2024)
+Download for Original Screen - [Google Drive](https://drive.google.com/file/d/1DH4lPuI6X6xtfvxW_DPYAH_yDh6hfgoj/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_11272024.img.xz/file) | [MEGA](https://mega.nz/file/ZMAziLjZ#fvhEKaQ6LI2P-kmfILndjZX1t2SVXwkBXkhboVIT8G8) ArkOS 2.0 09292024  (Updated 12/06/2024)
 
-Download for Panel 4 (V5) - [Google Drive](https://drive.google.com/file/d/1eYBt2jtCZvVGX5ScJSmfK-ii0zbUe7Wx/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA](https://mega.nz/file/1QgFkQpL#YMgRaj_gJK-gV5To7xSIVTO5TJEV4xEMsdALaDrjaRc) ArkOS 2.0 09292024  (Updated 10/22/2024)
+Download for Panel 3 (V4) - [Google Drive](https://drive.google.com/file/d/1Gpez44IadGuHwyuTQ8BGWSeLMReWj8cb/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/9e5dk0vwt554n1l/ArkOS_R35S-R36S_v2.0_11272024_P3.img.xz/file) | [MEGA](https://mega.nz/file/0dpw3ARZ#cU4LiluvYw0zmyOz4UumnDSDHH1JC960t2j8HDL6WH4) ArkOS 2.0 09292024  (Updated 12/06/2024)
+
+Download for Panel 4 (V5) - [Google Drive](https://drive.google.com/file/d/1MT1AGGch6Ou4RAfxDvVCxUI4aXX6Qa5v/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA](https://mega.nz/file/tJ4HkB6C#XhQmcaHSzmxhmmEz7Let69zvTPdghKKbzTjIV2OPAGE) ArkOS 2.0 09292024  (Updated 12/06/2024)
+
+
 
 ### Community Maintained Image.
 If you're having problems with this image find us at the [RetroHandhelds Discord](https://discord.gg/RetroHandhelds)
