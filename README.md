@@ -2,11 +2,11 @@
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS/main/logo.bmp)
 
 ## R33S / R35S / R36S
-Download for Original Screen - [Google Drive](https://drive.google.com/file/d/1DH4lPuI6X6xtfvxW_DPYAH_yDh6hfgoj/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_11272024.img.xz/file) | [MEGA](https://mega.nz/file/ZMAziLjZ#fvhEKaQ6LI2P-kmfILndjZX1t2SVXwkBXkhboVIT8G8) ArkOS 2.0 11272024  (Updated 12/06/2024)
+Download for Original Screen - [Google Drive](https://drive.google.com/file/d/1DH4lPuI6X6xtfvxW_DPYAH_yDh6hfgoj/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_11272024.img.xz/file) | [MEGA](https://mega.nz/file/gZQDBYzK#yZOOx_6nrKCL1S6WxrJWveCsbIEaKg7dHv20wv6gPH0) ArkOS 2.0 12242024
 
-Download for Panel 3 (V4) - [Google Drive](https://drive.google.com/file/d/1Gpez44IadGuHwyuTQ8BGWSeLMReWj8cb/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/9e5dk0vwt554n1l/ArkOS_R35S-R36S_v2.0_11272024_P3.img.xz/file) | [MEGA](https://mega.nz/file/0dpw3ARZ#cU4LiluvYw0zmyOz4UumnDSDHH1JC960t2j8HDL6WH4) ArkOS 2.0 11272024  (Updated 12/06/2024)
+Download for Panel 3 (V4) - [Google Drive](https://drive.google.com/file/d/1Gpez44IadGuHwyuTQ8BGWSeLMReWj8cb/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/9e5dk0vwt554n1l/ArkOS_R35S-R36S_v2.0_11272024_P3.img.xz/file) | [MEGA](https://mega.nz/file/MRRwHCSC#mlNj6FU1UYQKdb9YE8ZB7LVfBl7A4zWNN-JtO4S99ps) ArkOS 2.0 12242024
 
-Download for Panel 4 (V5) - [Google Drive](https://drive.google.com/file/d/1MT1AGGch6Ou4RAfxDvVCxUI4aXX6Qa5v/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA](https://mega.nz/file/tJ4HkB6C#XhQmcaHSzmxhmmEz7Let69zvTPdghKKbzTjIV2OPAGE) ArkOS 2.0 11272024  (Updated 12/06/2024)
+Download for Panel 4 (V5) - [Google Drive](https://drive.google.com/file/d/1MT1AGGch6Ou4RAfxDvVCxUI4aXX6Qa5v/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA](https://mega.nz/file/ZJB1jBAD#v0VjNcHeK55Jqxk-mJGlTFtZNE8Tdpb3-WHnK-febww) ArkOS 2.0 12242024
 
 
 
