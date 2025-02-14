@@ -22,6 +22,4 @@ Still have your stock sd card files? You can check which screen you're using wit
 
 [ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1) | [Changelog](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS-Updater/main/R3XS-Changelogs) | [RG351MP - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351MP)
 
-### Donate
-🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
+
