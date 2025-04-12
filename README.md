@@ -3,11 +3,14 @@
 
 ## R33S / R35S / R36S
 
-Download for Original Screen | [Google Drive](https://drive.google.com/file/d/1F93Q1jXYaTCftOlzAt0BaM43rmVexXsn/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_11272024.img.xz/file) | [MEGA](https://mega.nz/file/Gy4AGayB#hdqc4lK4-NQLOkjT1FrEQOUNPFOBEduKq5pKaVyOBHA) | ArkOS 2.0 (02092025)
+Download for Original Screen  | [Google Drive](https://drive.google.com/file/d/108vEPPHMQBRh78ZFSnUqDU_PnLAcAvOg/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/uSwhzToC#-k2TNq8dkEh6_26EZEJZptwU9M2RnEMyyrDQByjvrp0) |  ArkOS 2.0 (03302025)
 
-Download for Panel 3 (V4) | [Google Drive](https://drive.google.com/file/d/18VL7uLNdyFKDH4_V8YM5zhHSjLiJdkUc/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/9e5dk0vwt554n1l/ArkOS_R35S-R36S_v2.0_11272024_P3.img.xz/file) | [MEGA](https://mega.nz/file/KzIlGRZS#Aa5RAfmZGzqT_DymWELFSXYh6UPxrQur7itDrN_duQg) | ArkOS 2.0 (02092025)
+Download for Panel 3 (V4)  | [Google Drive](https://drive.google.com/file/d/1n4bVIa6_bYS5b0Ld2RX9YJstMFFX8tji/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/9e5dk0vwt554n1l/ArkOS_R35S-R36S_v2.0_03302025_P3.img.xz/file) | [MEGA](https://mega.nz/file/WKhE3JLa#uVuvD5vXlNBcH1NgNCpf5Ed69BP8CUORCa2mLjeotDI) |  ArkOS 2.0 (03302025)
 
-Download for Panel 4 (V5) | [Google Drive](https://drive.google.com/file/d/1MT1AGGch6Ou4RAfxDvVCxUI4aXX6Qa5v/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_05242024_P4.img.xz/file) | [MEGA](https://mega.nz/file/ym4TgAJY#zdODFqrPBb7lnW3JDn51jXtPNyXEg8TKNupG-R2mtl4) | ArkOS 2.0 (02092025)
+Download for Panel 4 (V5) | [Google Drive](https://drive.google.com/file/d/1CjUuMz5T1yokvqOo1y-7T8TWegHk0PB4/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/23cw6ij4bz474f3/ArkOS_R35S-R36S_v2.0_03302025_P4.img.xz/file) | [MEGA](https://mega.nz/file/CDQ0wRAb#6TMgncPeS5rEufTdF81P6dyz0KRjA7XTelvA66PjWgU) |  ArkOS 2.0 (03302025)
+
+## Initial Support for R36S Plus
+Download for R36S Plus | [Google Drive](https://drive.google.com/file/d/1Fc6A118Mv6_W-zMaG09GK6NCkxPkGCRI/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/dnv82zdbd47jqls/ArkOS_R36SPLUS_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/CDQ0wRAb#6TMgncPeS5rEufTdF81P6dyz0KRjA7XTelvA66PjWgU) | ArkOS 2.0 (03302025)
 
 
 
