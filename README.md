@@ -3,7 +3,7 @@
 
 ## R33S / R35S / R36S
 
-Download for Original Screen  | [Google Drive](https://drive.google.com/file/d/1ZZNAiY2CgEoNnB4GSTrxNhVUqaVTjoLu/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/CEEXnRZQ#7XFeSg2mLyMS5ZLCY_PNiTtkCmcFsDFNL17I5BEIMJM) |  ArkOS 2.0 (05152025)
+Download for Original Screen  | [Google Drive](https://drive.google.com/file/d/1ZZNAiY2CgEoNnB4GSTrxNhVUqaVTjoLu/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/da4193t5vsjfsbr/ArkOS_R35S-R36S_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/HUdhwIyQ#Yg4S9adKkOK0Bcfd0Db5YGHGmq4ib_GoPyP6DaIkuq0) |  ArkOS 2.0 (05152025)
 
 Download for Panel 3 (V4)  | [Google Drive](https://drive.google.com/file/d/1uPRcoXy5SQCql_Knl3J-oinCFfKjoGoJ/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/9e5dk0vwt554n1l/ArkOS_R35S-R36S_v2.0_03302025_P3.img.xz/file) | [MEGA](https://mega.nz/file/iZshhLjB#_6-eU-KUmHLzupCLJYK9-5GvtZ7LalCqgEnxCutTcRU) |  ArkOS 2.0 (05152025)
 
