@@ -33,9 +33,8 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 | **A**       | 0       | Original Panel (Stock)  |
 
 Once a valid combination is detected:
-Once a valid combination is detected:
-- The screen will display a logo.
 - The system will turn the device off — you will need to boot it normally afterward with the selected configuration.
+- The screen will display a logo when powered back on.
 
 
 ## 🔁 Changing the Panel Later
@@ -43,8 +42,8 @@ Once a valid combination is detected:
 You can re-enter Panel Picker Mode at any time:
 
 1. Power off the device.
-2. Power it back on and **hold R1 + your new panel button**.
-3. Wait a few seconds for the system to apply the new panel and reboot.
+2. Power it back on **while holding R1 + your new panel button**.
+3. Wait a few seconds for the system to apply the new panel and power off.
 
 > **Note:** To disable Panel Picker Mode, **hold R1 + Volume Down while powering on**.
 
