@@ -12,7 +12,7 @@ Download for R36S Plus | [Google Drive](https://drive.google.com/file/d/1TMRB8uw
 
 
 ### Community Maintained Image.
-If you're having problems with this image find us at the [RetroHandhelds Discord](https://discord.gg/RetroHandhelds)
+If you're having problems with this image find us at the [RetroHandhelds Discord](https://discord.com/channels/741895796315914271/1344470041986596935)
 
 The R3XS Community Image now supports multiple screen panels. To ensure your display works correctly, you can select the right panel using **Panel Picker Mode**.
 
