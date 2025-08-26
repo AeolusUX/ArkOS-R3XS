@@ -61,6 +61,7 @@ You can re-enter Panel Picker Mode at any time:
 > [!NOTE]  
 Still have your stock sd card files? You can check which screen you're using with this [tool](https://aeolusux.github.io/ArkOS-R3XS/tools/dtbIdentify.htm).
 
+[Interactive Setup Guide](https://r36sarkossetupguide.github.io/index.html)  |
 [ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1) | [Changelog](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS-Updater/main/R3XS-Changelogs) | [RG351MP - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351MP)
 
 
