@@ -1,5 +1,5 @@
 description: [ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S]
 github:
   mega_url: https://mega.nz/folder/Vlxz0aRD#VdoTDuBSDUoN1JTpcEujPQ
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
