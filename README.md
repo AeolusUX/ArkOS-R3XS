@@ -4,11 +4,13 @@
 
 ## R33S / R35S / R36S / R36H
 
-Download Multipanel Image | [Google Drive](https://drive.google.com/file/d/1NPGRSuIJG6FOnzHHHn89rRQIo34CFZw1/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/i672xysm7j62kde/ArkOS_R35S-R36S_v2.0_05312025_MultiPanel.img.xz/file) | [MEGA](https://mega.nz/file/UN4FTRab#ZmsByYWlu25dJVGhAm19u-f3YiokLQFS68_zTrvWXzg) |  ArkOS 2.0 (07312025-1)
-
+Download Multipanel Image | [Google Drive](https://drive.google.com/file/d/1NPGRSuIJG6FOnzHHHn89rRQIo34CFZw1/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/i672xysm7j62kde/ArkOS_R35S-R36S_v2.0_05312025_MultiPanel.img.xz/file) | [MEGA](https://mega.nz/file/gQoizaTR#ra6tFaGooW-pb68ZWdi8693Y32M_SNGRFCJeRhLOSsE) |  ArkOS 2.0 (11072025)
 
 ## R36 Plus
-Download for R36S Plus | [Google Drive](https://drive.google.com/file/d/1TMRB8uwkTfk1g6k7c7zpyuxtooJZfyGu/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/dnv82zdbd47jqls/ArkOS_R36SPLUS_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/BIgXxQIB#TmQbKZnKX672pHOTMjNFW_xOIsS50jf6qum-6QNihvs) | ArkOS 2.0 (07312025-1)
+Download for R36S Plus | [Google Drive](https://drive.google.com/file/d/1TMRB8uwkTfk1g6k7c7zpyuxtooJZfyGu/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/dnv82zdbd47jqls/ArkOS_R36SPLUS_v2.0_03302025.img.xz/file) | [MEGA](https://mega.nz/file/JIYlRbza#USEsPt1jV7WD5ktqEt_BB2BLkrfxaoFOgvoxIIsX1i4) | ArkOS 2.0 (11072025)
+
+## R46H / R45H / R42 PRO / R40XX / R40XX Pro Max
+Download for R46H, R45H, R42 Pro, Etc. | [Google Drive](https://drive.google.com/file/d/1-oNpnOuc1mil4T_IMs4ui8W2uQt6Xlc_/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/80x61kaxbttmtv7/ArkOS_R46H-R45H-R42Pro_v2.0_11072025.img.xz/file) | [MEGA](https://mega.nz/file/kApjUCoY#Fd1uLBg32a9PxR7vHebYia0EiRud7chxH-iitx2a6eU) | ArkOS 2.0 (11072025)
 
 
 ### Community Maintained Image.
