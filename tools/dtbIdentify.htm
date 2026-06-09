@@ -27,6 +27,27 @@
             margin-bottom: 20px;
         }
 
+        /* New styles for the deprecation notice */
+        .deprecation-notice {
+            background-color: #ff4d4d; /* Matches your existing red link color */
+            color: #ffffff;
+            padding: 12px;
+            border-radius: 3px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            line-height: 1.5;
+            font-weight: bold;
+        }
+
+        .deprecation-notice a {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+
+        .deprecation-notice a:hover {
+            color: #e0e0e0;
+        }
+
         h1, h2 {
             color: #ffffff;
         }
@@ -96,22 +117,24 @@
             text-align: left;
             margin-left: 20px;
         }
-		#instructions a {
-        color: #ff4d4d; /* Red color for the link */
-        text-decoration: none;
-		}
+        
+        #instructions a {
+            color: #ff4d4d; /* Red color for the link */
+            text-decoration: none;
+        }
 
-		#instructions a:hover {
-        text-decoration: underline;
-		}
-		.bold-dtb {
-		font-weight: bold;
-		color: #45a049;
-		}
+        #instructions a:hover {
+            text-decoration: underline;
+        }
+        
+        .bold-dtb {
+            font-weight: bold;
+            color: #45a049;
+        }
     </style>
 </head>
 <body>
-	<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('aeolusux', {
     'type': 'floating-chat',
@@ -121,6 +144,13 @@
   });
 </script>
     <div id="container">
+        <!-- Deprecation Notice Added Here -->
+        <div class="deprecation-notice">
+            ⚠️ Notice: This is a deprecated tool. You should use <br>
+            <a href="https://r36s.dpdns.org/dtbTools.html" target="_blank">https://r36s.dpdns.org/dtbTools.html</a> <br>
+            for a more updated tool.
+        </div>
+
         <img src="Icon.png" alt="Screen Image" style="width: 300px; height: auto; margin-bottom: 20px;">
         <h1>Which Screen Do I Have?</h1>
         <form id="uploadForm" enctype="multipart/form-data">
@@ -168,23 +198,23 @@
         });
 
         function identifyScreen(uploadedData) {
-		// List of text files to compare against
-			const filesToCompare = ['v0.txt', 'v1.txt', 'v2.txt', 'v3.txt','v3_2.txt', 'v4.txt', 'v4_2.txt', 'v4_3.txt', 'oldv1.txt', 'oldv1_2.txt', 'v0_2.txt']; // Add more files if needed
+            // List of text files to compare against
+            const filesToCompare = ['v0.txt', 'v1.txt', 'v2.txt', 'v3.txt','v3_2.txt', 'v4.txt', 'v4_2.txt', 'v4_3.txt', 'oldv1.txt', 'oldv1_2.txt', 'v0_2.txt']; // Add more files if needed
 
-		// Corresponding messages for each file
-			const fileMessages = {
-				'v0.txt': "This is the original R36S Screen.",
-				'v0_2.txt': "This is the original R36S Screen.",
-				'v1.txt': "This is Panel 1.",
-				'v2.txt': "This is Panel 2.",
-				'v3.txt': "This is Panel 3.",
-				'v3_2.txt': "This is Panel 3.",
-				'v4.txt': "This is Panel 4.",
-				'v4_2.txt': "This is Panel 4.",
-				'v4_3.txt': "This is Panel 4.",
-				'oldv1.txt': "This is the Original R36S Screen without FN Button.",
-				'oldv1_2.txt': "This is the Original R36S Screen without FN Button."
-};
+            // Corresponding messages for each file
+            const fileMessages = {
+            'v0.txt': "This is the original R36S Screen.",
+            'v0_2.txt': "This is the original R36S Screen.",
+            'v1.txt': "This is Panel 1.",
+            'v2.txt': "This is Panel 2.",
+            'v3.txt': "This is Panel 3.",
+            'v3_2.txt': "This is Panel 3.",
+            'v4.txt': "This is Panel 4.",
+            'v4_2.txt': "This is Panel 4.",
+            'v4_3.txt': "This is Panel 4.",
+            'oldv1.txt': "This is the Original R36S Screen without FN Button.",
+            'oldv1_2.txt': "This is the Original R36S Screen without FN Button."
+            };
 
             for (var i = 0; i < filesToCompare.length; i++) {
                 var xhr = new XMLHttpRequest();
